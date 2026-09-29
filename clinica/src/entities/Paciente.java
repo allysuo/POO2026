@@ -1,4 +1,4 @@
 package entities;
 
-public class Paciente {
+public class Paciente extends Pessoa {
 }
